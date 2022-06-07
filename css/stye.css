@@ -537,7 +537,7 @@
       rgba(235, 151, 78, 0.35),
       rgba(230, 125, 34, 0.35)
     ),
-    url("../img/eating.jpg");
+    url("../img/eating.webp");
   background-size: cover;
   background-position: center;
 }
@@ -633,11 +633,9 @@
 }
 
 .copyright a {
-  
-    text-decoration: none;
-    color: steelblue;
-    font-weight: 600;
-  
+  text-decoration: none;
+  color: steelblue;
+  font-weight: 600;
 }
 
 .contacts {
